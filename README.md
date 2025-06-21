@@ -1,4 +1,8 @@
-<h1 align="center">👋 ¡Hola! Soy Alejandro Jiménez</h1>
+<h1 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.gif" width="40" />  
+  ¡Hola! Soy Alejandro Jiménez
+</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2A77F4&center=true&vCenter=true&width=800&lines=Desarrollador+Web+Full+Stack+Junior;Apasionado+por+la+tecnologia%C3%ADa+y+el+aprendizaje+continuo" alt="Typing SVG" />
