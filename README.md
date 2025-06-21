@@ -40,7 +40,7 @@ Echa un vistazo a algunos de mis proyectos en los repos públicos de este perfil
 
 ## 📫 ¿Quieres contactar conmigo?
 
-Puedes escribirme a través de [tu email o red social si quieres añadir uno aquí]  
+Puedes escribirme a través de jimenezjotape@gmail.com  
 Estoy abierto a oportunidades, colaboraciones o simplemente charlar sobre tecnología.
 
 ---
