@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Alejandro Jiménez</h1>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2A77F4&center=true&vCenter=true&width=435&lines=Desarrollador+Web+Full+Stack+Junior;Apasionado+por+la+tecnologia%C3%ADa+y+el+aprendizaje+continuo" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2A77F4&center=true&vCenter=true&width=700&lines=Desarrollador+Web+Full+Stack+Junior;Apasionado+por+la+tecnolog%C3%ADa+y+el+aprendizaje+continuo" alt="Typing SVG" />
 </p>
 
 ---
