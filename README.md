@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.gif" width="40" />  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="vertical-align:middle" />
   ¡Hola! Soy Alejandro Jiménez
 </h1>
 
