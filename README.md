@@ -1,48 +1,59 @@
-# 👋 ¡Hola! Soy Alejandro Jiménez
+<h1 align="center">👋 ¡Hola! Soy Alejandro Jiménez</h1>
 
-💻 **Desarrollador Web Full Stack Junior**  
-🎓 Titulado en el Ciclo Superior de *Diseño de Aplicaciones Web*  
-📍 España
-
----
-
-## 🚀 Sobre mí
-
-Apasionado por la programación y el desarrollo web, me encanta crear soluciones funcionales, eficientes y con buen diseño. Disfruto aprendiendo nuevas tecnologías y trabajando tanto en el frontend como en el backend.
-
-Actualmente sigo ampliando mis conocimientos y participando en proyectos personales para crecer profesionalmente en el mundo del desarrollo.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2A77F4&center=true&vCenter=true&width=435&lines=Desarrollador+Web+Full+Stack+Junior;Apasionado+por+la+tecnolog%C3%ADa+y+el+aprendizaje+continuo" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🧑‍💻 Sobre mí
 
-### Frontend
-- **HTML5**, **CSS3**, **JavaScript**
-- Experiencia con diseño adaptable (responsive design) y buenas prácticas de accesibilidad
+Soy un desarrollador web con formación en el **Ciclo Superior de Diseño de Aplicaciones Web**, con una fuerte motivación por crear soluciones digitales funcionales, elegantes y eficientes. Me interesa tanto el **frontend** como el **backend**, y siempre estoy buscando aprender más.
 
-### Backend
-- **Django** (Python)
-- **Java**
-- Conocimientos básicos de **PHP** con **Laravel**
+Actualmente sigo ampliando mis conocimientos con proyectos personales y formación continua.
 
-### Otros
-- Git & GitHub
-- SQL y bases de datos relacionales
-- Diseño de interfaces y prototipado básico
+---
+
+## 🚀 Tecnologías que manejo
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### 🛠 Backend
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+### 🧰 Herramientas y otros
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
 ## 📂 Repositorios destacados
 
-Echa un vistazo a algunos de mis proyectos en los repos públicos de este perfil. Cualquier feedback o colaboración es más que bienvenida 😊
+Aquí puedes encontrar algunos de mis proyectos personales. Estoy trabajando continuamente en nuevas ideas y funcionalidades, ¡pásate de vez en cuando! 👨‍💻
 
 ---
 
-## 📫 ¿Quieres contactar conmigo?
+## 📫 Contacto
 
-Puedes escribirme a través de jimenezjotape@gmail.com  
-Estoy abierto a oportunidades, colaboraciones o simplemente charlar sobre tecnología.
+Si quieres ponerte en contacto conmigo, puedes hacerlo por aquí:
+
+- ✉️ Email: *[jimenezjotape@gmail.com]*
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Visitas&color=blue&style=flat" alt="Profile views" />
+</p>
